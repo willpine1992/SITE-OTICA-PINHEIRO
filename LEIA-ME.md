@@ -71,7 +71,7 @@ Dê dois cliques em `index.html`. O mapa precisa de internet.
 
 ## 4. Depois de publicar
 
-- Coloque **https://willpine1992.github.io/SITE-OTICA-PINHEIRO/** no campo "Site" do Perfil da Empresa no Google (hoje aponta para o Instagram).
+- ✅ O link já está no campo "Website" do Perfil da Empresa no Google (desde 01/11/2026).
 - Coloque o link na bio do Instagram @oticapinheiro_am.
 - Domínio próprio (ex.: oticapinheiro.com.br): registre no Registro.br e configure em GitHub → Settings → Pages → Custom domain.
 
