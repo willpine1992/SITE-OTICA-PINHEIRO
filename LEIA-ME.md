@@ -33,7 +33,7 @@ SITE/
 | `#lentes` | Catálogo | 11 linhas com filtro por tipo; ao clicar abre a janela de detalhes (notas, adição, materiais) |
 | `#comparar` | Comparador | Duas lentes lado a lado nas 5 notas oficiais |
 | `#tecnologia` | Freeform + espessura | Controle que mostra a lente afinando de 1.50 a 1.74 |
-| `#tratamentos` | Tratamentos | Antes/depois do antirreflexo Diamond e do filtro azul; simulador de cores Transitions Gen S |
+| `#tratamentos` | Tratamentos | Antes/depois de arrastar no antirreflexo Diamond, nas 4 camadas (oleofóbica, hidrofóbica, antiestática, antirrisco, em lentes redondas) e no filtro azul; simulador de cores Transitions Gen S |
 | `#como-funciona` | Passo a passo | Receita/exame → armação → lente → entrega |
 | `#loja` | A loja | Galeria de fotos e formas de pagamento |
 | `#visite` | Visite | Endereço, horário com "aberto agora" (fuso de Manaus), mapa e botões |
